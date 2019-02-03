@@ -1,2 +1,2 @@
 # understanding-algorithims
-This is the repository where I understand algorithms by coding it my self
+In this project I write python code for algorthims, that helps me to understand them more easily.
